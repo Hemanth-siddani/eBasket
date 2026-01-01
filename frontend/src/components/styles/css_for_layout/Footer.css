@@ -1,0 +1,11 @@
+.footer {
+  background-image:linear-gradient(to right,#434343,#000000);
+  color:#fff;
+  width:auto;
+}
+div a {
+  text-decoration:none;
+}
+div a:hover {
+  color:rgb(255, 136, 0);
+}
